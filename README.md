@@ -1,4 +1,4 @@
-# Predicting-bike-sharing-demang-neural-network
+# Predicting-bike-sharing-demand-neural-network
 
 In this project, I have built a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, I had a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before moving to higher level tools such as PyTorch.
 
